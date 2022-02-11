@@ -1,0 +1,63 @@
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is 0.000 
+Minimum vaf_quality configuration at -0.80, 0.80 
+The maximum vaf_quality value is 0.00 
+Maximum vaf_quality configuration at -0.80, 0.80 
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is 0.000 
+Minimum vaf_quality configuration at -0.80, 0.80 
+The maximum vaf_quality value is 0.00 
+Maximum vaf_quality configuration at -0.80, 0.80 
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is -0.720 
+Minimum vaf_quality configuration at 0.45, 0.80 
+The maximum vaf_quality value is -0.72 
+Maximum vaf_quality configuration at 0.45, 0.80 
+The standard deviation for the conditioning number is 0.16 
+The mean value for the conditioning number is 0.79 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is -0.719 
+Minimum vaf_quality configuration at 0.40, 0.80 
+The maximum vaf_quality value is -0.72 
+Maximum vaf_quality configuration at 0.40, 0.80 
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is -0.720 
+Minimum vaf_quality configuration at 0.45, 0.80 
+The maximum vaf_quality value is -0.72 
+Maximum vaf_quality configuration at 0.45, 0.80 
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is -0.720 
+Minimum vaf_quality configuration at 0.45, 0.80 
+The maximum vaf_quality value is -0.72 
+Maximum vaf_quality configuration at 0.45, 0.80 
+The standard deviation for the conditioning number is 0.15 
+The mean value for the conditioning number is 0.80 
+The minimum value of conditioning number is 0.274 and the maximum value is 1.00 
+Minimum cnum configuration at -0.80, 0.80 
+Maximum cnum configuration at 0.00, 0.00 
+The minimum value for vaf_quality is -0.964 
+Minimum vaf_quality configuration at -0.80, 0.80 
+The maximum vaf_quality value is -0.96 
+Maximum vaf_quality configuration at -0.80, 0.80 

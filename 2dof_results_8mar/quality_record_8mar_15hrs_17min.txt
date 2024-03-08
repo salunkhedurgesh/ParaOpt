@@ -1,0 +1,11 @@
+The standard deviation for the conditioning number is 0.20 
+The mean value for the conditioning number is 0.76 
+The minimum value of conditioning number is 0.161 and the maximum value is 1.00 
+Minimum cnum configuration at 0.94, 0.34 
+Maximum cnum configuration at -0.32, -0.09 
+The standard deviation for the VAF number is 0.70 
+The mean value for the VAF number is 0.38 
+The minimum value for vaf_quality is -1.234 
+Minimum vaf_quality configuration at 1.00, 0.00 
+The maximum vaf_quality value is 0.98 
+Maximum vaf_quality configuration at -0.26, -0.07 

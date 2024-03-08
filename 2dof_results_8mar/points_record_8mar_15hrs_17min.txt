@@ -1,0 +1,84 @@
+The type of mechanism optimised is 2UPS_1U for Otological surgery
+The dimension of the optimisation is 13, the number of starts are 10
+The number of iterations if same solution is encountered is 10 
+The limits are:
+Limit 1 : [-5.000000e-01, 5.000000e-01]
+Limit 2 : [-5.000000e-01, 5.000000e-01]
+Limit 3 : [-5.000000e-01, 5.000000e-01]
+Limit 4 : [-5.000000e-01, 5.000000e-01]
+Limit 5 : [-5.000000e-01, 5.000000e-01]
+Limit 6 : [-5.000000e-01, 5.000000e-01]
+Limit 7 : [-5.000000e-01, 5.000000e-01]
+Limit 8 : [-5.000000e-01, 5.000000e-01]
+Limit 9 : [-5.000000e-01, 5.000000e-01]
+Limit 10 : [-5.000000e-01, 5.000000e-01]
+Limit 11 : [0, 0]
+Limit 12 : [0, 0]
+Limit 13 : [4.000000e-01, Inf]
+The objective function aims to calculate  design 
+The ranges for the parameters are: 
+
+
+ The parameters for start 1 are:
+0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The evaluation for this parameters is: -28758.056311 
+
+ The parameters for start 2 are:
+0.675482 	0.648431 	-0.037194 	0.971665 	1.719736 	-0.093173 	1.117251 	0.584459 	-0.088760 	1.202424 	0.259847 	-0.047872 	1.883811 	
+The evaluation for this parameters is: -23325.526994 
+
+ The parameters for start 3 are:
+0.758983 	-0.625193 	-0.007264 	1.319530 	0.650024 	-0.109465 	1.238226 	-0.233308 	-0.030554 	1.367162 	-0.783444 	0.056059 	2.898744 	
+The evaluation for this parameters is: -25477.124904 
+
+ The parameters for start 4 are:
+0.537739 	-0.443507 	0.052931 	1.494194 	-0.221576 	0.250230 	0.778254 	1.380155 	0.089282 	1.827317 	-1.745329 	0.132704 	2.989140 	
+The evaluation for this parameters is: -25794.087507 
+
+ The parameters for start 5 are:
+0.390954 	0.033985 	0.051129 	1.252761 	-0.599000 	-0.230236 	0.342775 	1.483593 	-0.017076 	1.500244 	1.036136 	0.046467 	2.534539 	
+The evaluation for this parameters is: -26034.271751 
+
+ The parameters for start 6 are:
+0.867710 	0.046103 	-0.004594 	1.493610 	0.421643 	-0.225479 	0.629765 	-1.251793 	0.064105 	1.405994 	-1.102520 	-0.046525 	2.732785 	
+The evaluation for this parameters is: -27131.996018 
+
+ The parameters for start 7 are:
+0.641052 	-0.241220 	-0.094780 	1.231962 	-0.056925 	0.335220 	1.500000 	-1.494511 	0.057483 	1.286184 	-1.697293 	0.042331 	3.217978 	
+The evaluation for this parameters is: -27038.553418 
+
+ The parameters for start 8 are:
+0.744394 	0.512624 	0.089720 	0.863466 	0.296432 	-0.175141 	0.752717 	1.510682 	-0.052427 	1.204195 	-1.248553 	-0.139897 	1.956287 	
+The evaluation for this parameters is: -25536.137876 
+
+ The parameters for start 9 are:
+0.713564 	-0.952090 	0.012925 	1.391122 	-0.933585 	0.307921 	1.137707 	1.201976 	-0.069662 	1.412222 	0.689577 	0.175354 	2.795086 	
+The evaluation for this parameters is: -27175.649543 
+
+ The parameters for start 10 are:
+0.784243 	-0.121728 	-0.067685 	1.612073 	-0.544495 	0.069454 	0.325648 	-1.534577 	0.046775 	1.747423 	0.980599 	-0.183707 	3.027966 	
+The evaluation for this parameters is: -26687.575962 
+
+The best point before refining is:
+0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	With evaluation -28758.056311 
+The total time elapsed for comple operation is 0 hours 37 minutes and 54.1 seconds
+
+The total time elapsed for refining is 0 hours 14 minutes and 8.5 seconds
+The total time elapsed for operation including refining is 0 hours 52 minutes and 2.5 seconds
+
+The optimised point after refining is found 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The actuator ranges are: [2.410446, 3.615669] 

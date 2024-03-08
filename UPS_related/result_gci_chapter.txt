@@ -1,0 +1,1696 @@
+Taking inputs from my_input.m file 
+The mechanism name is 2UPS_1U for Otological surgery with dimension 13
+The number of starts are 10
+The number of iterations to continue for same solution are 10 
+The limits vector is [-5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, -5.000000e-01, 0, 0, 4.000000e-01]
+The mechanism is being optimised for Global conditioning number with biased rewarding function
+Sobolset functionality is not used 
+The file names are deep_record_8mar_15hrs_17min.txt and points_record_8mar_15hrs_17min.txt saved in 8_3 folder. Both are opened in write mode 
+
+
+Type the necessary update - Why are you running the code?
+string expected (example: "Trying to check the new set of constraints")
+"Running optimization for example illustration"
+The file names are 2dof_results_8mar/deep_record_8mar_15hrs_17min.txt and 2dof_results_8mar/points_record_8mar_15hrs_17min.txt saved in 2dof_results_8mar folder. Both are opened in write mode 
+Opening file named 2dof_results_8mar/deep_record_8mar_15hrs_17min.txt for storing the deep analysis of the multi-start optimisation 
+Please wait: Calculating the set of valid points for a initial simplex point that is non-singular in the desired RDW 
+Generating points using random function 
+Done: Calculated initial simplexes for 10 starts 
+
+########## START NUMBER: 1 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Inside contraction of no use: Shrinkage in process 
+Better point found.. continuing
+New evaluation is -2.009040e+04 
+time required for this iteration is 12.141354 seconds 
+The parameters are 
+[0.740284, -1.273808, 0.078762, 0.921510, -1.249124, -0.169065, 1.001228, 0.986174, -0.032897, 0.784975, 0.061226, -0.307711, 3.160141] 
+
+Checked expansion but reflection in process 
+Better point found.. continuing
+New evaluation is -2.709825e+04 
+time required for this iteration is 11.965902 seconds 
+The parameters are 
+[0.517462, -0.884786, 0.000249, 1.146919, -1.353874, -0.225559, 0.857453, -0.014238, -0.007243, 1.071254, 0.027301, -0.223134, 3.139422] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 11.169663 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 11.353465 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 11.446553 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 11.454494 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 12.310755 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 12.753037 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 12.934184 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.709825e+04 
+time required for this iteration is 13.500668 seconds 
+
+The parameters are 
+[0.954035, -1.673221, 0.093698, 1.175125, -0.787379, -0.135109, 0.852990, -0.433418, -0.051612, 1.266832, 0.694548, 0.057432, 3.014788] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.875806e+04 
+time required for this iteration is 13.772844 seconds 
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 14.877850 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 14.263715 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 14.347870 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.396508 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.596478 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 14.528454 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.476897 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.750665 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.505849 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.875806e+04 
+time required for this iteration is 15.981639 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The actuator ranges are: 2.410675 	3.616013 	
+The evaluation at this point is -2.875806e+04 
+The mean iteration time is 13.64 seconds
+
+The total print_iterations performed are 22 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 2 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Better point found.. continuing
+New evaluation is -2.332553e+04 
+time required for this iteration is 12.039923 seconds 
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.193424 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.991193 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.879470 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.458811 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 13.103257 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 13.088866 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.899070 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.928842 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 12.750461 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.332553e+04 
+time required for this iteration is 13.268902 seconds 
+
+The parameters are 
+[0.675482, 0.648431, -0.037194, 0.971665, 1.719736, -0.093173, 1.117251, 0.584459, -0.088760, 1.202424, 0.259847, -0.047872, 1.883811] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.675482, 	
+Parameter 2 = 0.648431, 	
+Parameter 3 = -0.037194, 	
+Parameter 4 = 0.971665, 	
+Parameter 5 = 1.719736, 	
+Parameter 6 = -0.093173, 	
+Parameter 7 = 1.117251, 	
+Parameter 8 = 0.584459, 	
+Parameter 9 = -0.088760, 	
+Parameter 10 = 1.202424, 	
+Parameter 11 = 0.259847, 	
+Parameter 12 = -0.047872, 	
+Parameter 13 = 1.883811, 	
+The actuator ranges are: 1.696777 	2.545166 	
+The evaluation at this point is -2.332553e+04 
+The mean iteration time is 12.78 seconds
+
+The total print_iterations performed are 12 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 3 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Inside contraction of no use: Shrinkage in process 
+Better point found.. continuing
+New evaluation is -2.123575e+04 
+time required for this iteration is 14.335792 seconds 
+The parameters are 
+[0.607299, -0.033355, -0.069024, 1.396746, 0.556902, 0.056136, 1.306893, -0.149241, 0.020443, 1.999237, -0.901651, -0.282643, 3.537889] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.547712e+04 
+time required for this iteration is 12.329745 seconds 
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 12.671160 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 13.179050 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 14.115743 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 14.248735 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 14.576938 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 14.895403 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 14.989847 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 15.584832 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 15.098992 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.547712e+04 
+time required for this iteration is 15.592568 seconds 
+
+The parameters are 
+[0.758983, -0.625193, -0.007264, 1.319530, 0.650024, -0.109465, 1.238226, -0.233308, -0.030554, 1.367162, -0.783444, 0.056059, 2.898744] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.758983, 	
+Parameter 2 = -0.625193, 	
+Parameter 3 = -0.007264, 	
+Parameter 4 = 1.319530, 	
+Parameter 5 = 0.650024, 	
+Parameter 6 = -0.109465, 	
+Parameter 7 = 1.238226, 	
+Parameter 8 = -0.233308, 	
+Parameter 9 = -0.030554, 	
+Parameter 10 = 1.367162, 	
+Parameter 11 = -0.783444, 	
+Parameter 12 = 0.056059, 	
+Parameter 13 = 2.898744, 	
+The actuator ranges are: 2.459570 	3.689354 	
+The evaluation at this point is -2.547712e+04 
+The mean iteration time is 14.30 seconds
+
+The total print_iterations performed are 13 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 4 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.435494e+04 
+time required for this iteration is 13.386515 seconds 
+The parameters are 
+[0.355545, -0.709889, 0.072961, 1.431081, -0.089302, 0.287187, 0.663499, 1.391508, 0.088231, 1.984811, -1.645934, 0.037816, 3.293628] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.435494e+04 
+time required for this iteration is 13.773605 seconds 
+
+The parameters are 
+[0.355545, -0.709889, 0.072961, 1.431081, -0.089302, 0.287187, 0.663499, 1.391508, 0.088231, 1.984811, -1.645934, 0.037816, 3.293628] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.466037e+04 
+time required for this iteration is 12.660326 seconds 
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.466037e+04 
+time required for this iteration is 13.208657 seconds 
+
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.466037e+04 
+time required for this iteration is 13.393367 seconds 
+
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.466037e+04 
+time required for this iteration is 13.893932 seconds 
+
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.466037e+04 
+time required for this iteration is 14.265448 seconds 
+
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.466037e+04 
+time required for this iteration is 15.277210 seconds 
+
+The parameters are 
+[0.691557, 0.213221, 0.018766, 1.710887, -0.123292, 0.389042, 1.029843, 1.270093, 0.075271, 1.912253, -1.567456, 0.044252, 3.160513] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.572097e+04 
+time required for this iteration is 14.489532 seconds 
+The parameters are 
+[0.523551, -0.248334, 0.045863, 1.570984, -0.106297, 0.338114, 0.846671, 1.330800, 0.081751, 1.948532, -1.606695, 0.041034, 3.227071] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.572097e+04 
+time required for this iteration is 14.494888 seconds 
+
+The parameters are 
+[0.523551, -0.248334, 0.045863, 1.570984, -0.106297, 0.338114, 0.846671, 1.330800, 0.081751, 1.948532, -1.606695, 0.041034, 3.227071] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.572097e+04 
+time required for this iteration is 15.573377 seconds 
+
+The parameters are 
+[0.523551, -0.248334, 0.045863, 1.570984, -0.106297, 0.338114, 0.846671, 1.330800, 0.081751, 1.948532, -1.606695, 0.041034, 3.227071] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.572097e+04 
+time required for this iteration is 15.033000 seconds 
+
+The parameters are 
+[0.523551, -0.248334, 0.045863, 1.570984, -0.106297, 0.338114, 0.846671, 1.330800, 0.081751, 1.948532, -1.606695, 0.041034, 3.227071] 
+
+Checked expansion but reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 15.988738 seconds 
+
+The parameters are 
+[0.523551, -0.248334, 0.045863, 1.570984, -0.106297, 0.338114, 0.846671, 1.330800, 0.081751, 1.948532, -1.606695, 0.041034, 3.227071] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 15.029049 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 15.116012 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 16.112131 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 15.199998 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 16.039585 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.579409e+04 
+time required for this iteration is 16.118249 seconds 
+
+The parameters are 
+[0.537739, -0.443507, 0.052931, 1.494194, -0.221576, 0.250230, 0.778254, 1.380155, 0.089282, 1.827317, -1.745329, 0.132704, 2.989140] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.537739, 	
+Parameter 2 = -0.443507, 	
+Parameter 3 = 0.052931, 	
+Parameter 4 = 1.494194, 	
+Parameter 5 = -0.221576, 	
+Parameter 6 = 0.250230, 	
+Parameter 7 = 0.778254, 	
+Parameter 8 = 1.380155, 	
+Parameter 9 = 0.089282, 	
+Parameter 10 = 1.827317, 	
+Parameter 11 = -1.745329, 	
+Parameter 12 = 0.132704, 	
+Parameter 13 = 2.989140, 	
+The actuator ranges are: 2.766022 	4.149033 	
+The evaluation at this point is -2.579409e+04 
+The mean iteration time is 14.69 seconds
+
+The total print_iterations performed are 20 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 5 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Inside contraction of no use: Shrinkage in process 
+Better point found.. continuing
+New evaluation is -1.683598e+04 
+time required for this iteration is 14.007348 seconds 
+The parameters are 
+[0.351407, -0.485905, 0.041487, 1.285893, -0.724659, -0.490840, 0.442103, 1.584962, -0.077406, 0.955162, 1.106865, 0.496347, 2.577076] 
+
+Checked expansion but reflection in process 
+Better point found.. continuing
+New evaluation is -2.347385e+04 
+time required for this iteration is 11.254143 seconds 
+The parameters are 
+[0.485904, -0.367101, 0.025529, 0.949360, -0.537940, -0.143005, 0.952652, 1.343379, -0.070615, 1.296890, 0.910049, 0.294127, 2.969424] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.347385e+04 
+time required for this iteration is 10.803506 seconds 
+
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.347385e+04 
+time required for this iteration is 11.125897 seconds 
+
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.347385e+04 
+time required for this iteration is 11.890392 seconds 
+
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.347385e+04 
+time required for this iteration is 11.971593 seconds 
+
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.347385e+04 
+time required for this iteration is 13.041365 seconds 
+
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Checked expansion but reflection in process 
+Better point found.. continuing
+New evaluation is -2.603427e+04 
+time required for this iteration is 16.500992 seconds 
+The parameters are 
+[0.458130, -0.251715, -0.005078, 1.470411, -0.764054, -0.077241, 0.317137, 0.797866, -0.015265, 1.614798, 1.013542, 0.295397, 2.792057] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 16.186757 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 17.298730 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 17.994951 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 17.849253 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 18.188723 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 17.653721 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 15.172033 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 15.354063 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 16.452321 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.603427e+04 
+time required for this iteration is 15.548393 seconds 
+
+The parameters are 
+[0.390954, 0.033985, 0.051129, 1.252761, -0.599000, -0.230236, 0.342775, 1.483593, -0.017076, 1.500244, 1.036136, 0.046467, 2.534539] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.390954, 	
+Parameter 2 = 0.033985, 	
+Parameter 3 = 0.051129, 	
+Parameter 4 = 1.252761, 	
+Parameter 5 = -0.599000, 	
+Parameter 6 = -0.230236, 	
+Parameter 7 = 0.342775, 	
+Parameter 8 = 1.483593, 	
+Parameter 9 = -0.017076, 	
+Parameter 10 = 1.500244, 	
+Parameter 11 = 1.036136, 	
+Parameter 12 = 0.046467, 	
+Parameter 13 = 2.534539, 	
+The actuator ranges are: 2.160078 	3.240116 	
+The evaluation at this point is -2.603427e+04 
+The mean iteration time is 14.91 seconds
+
+The total print_iterations performed are 19 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 6 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Inside contraction of no use: Shrinkage in process 
+Better point found.. continuing
+New evaluation is -1.909999e+04 
+time required for this iteration is 13.745067 seconds 
+The parameters are 
+[0.463385, 0.253950, -0.041024, 1.057876, 1.433225, -0.390893, 0.424544, -1.587794, 0.084562, 1.482761, -0.540581, -0.159825, 3.007574] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.713200e+04 
+time required for this iteration is 11.961229 seconds 
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 11.949185 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 12.573215 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 12.639456 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 14.637726 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 15.977403 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 13.086651 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 13.248650 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 14.150068 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 15.413979 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.713200e+04 
+time required for this iteration is 18.862935 seconds 
+
+The parameters are 
+[0.867710, 0.046103, -0.004594, 1.493610, 0.421643, -0.225479, 0.629765, -1.251793, 0.064105, 1.405994, -1.102520, -0.046525, 2.732785] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.867710, 	
+Parameter 2 = 0.046103, 	
+Parameter 3 = -0.004594, 	
+Parameter 4 = 1.493610, 	
+Parameter 5 = 0.421643, 	
+Parameter 6 = -0.225479, 	
+Parameter 7 = 0.629765, 	
+Parameter 8 = -1.251793, 	
+Parameter 9 = 0.064105, 	
+Parameter 10 = 1.405994, 	
+Parameter 11 = -1.102520, 	
+Parameter 12 = -0.046525, 	
+Parameter 13 = 2.732785, 	
+The actuator ranges are: 2.183247 	3.274870 	
+The evaluation at this point is -2.713200e+04 
+The mean iteration time is 14.02 seconds
+
+The total print_iterations performed are 13 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 7 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Better point found.. continuing
+New evaluation is -2.469860e+04 
+time required for this iteration is 15.993038 seconds 
+The parameters are 
+[0.823561, 1.182856, -0.063997, 0.942988, -0.043666, 0.213199, 1.363542, -0.637813, 0.068581, 1.060241, -1.481764, 0.058142, 2.585141] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.469860e+04 
+time required for this iteration is 17.435003 seconds 
+
+The parameters are 
+[0.823561, 1.182856, -0.063997, 0.942988, -0.043666, 0.213199, 1.363542, -0.637813, 0.068581, 1.060241, -1.481764, 0.058142, 2.585141] 
+
+Checked expansion but reflection in process 
+Better point found.. continuing
+New evaluation is -2.542407e+04 
+time required for this iteration is 16.691946 seconds 
+The parameters are 
+[0.823561, 1.182856, -0.063997, 0.942988, -0.043666, 0.213199, 1.363542, -0.637813, 0.068581, 1.060241, -1.481764, 0.058142, 2.585141] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 15.236324 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 15.895802 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 15.263382 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 16.340660 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 16.846232 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.542407e+04 
+time required for this iteration is 18.224168 seconds 
+
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Checked expansion but reflection in process 
+Better point found.. continuing
+New evaluation is -2.703855e+04 
+time required for this iteration is 19.252149 seconds 
+The parameters are 
+[0.526171, 0.311805, -0.025635, 1.236653, 0.345229, 0.127527, 1.199907, -0.059001, -0.004808, 1.172894, -1.373015, 0.025772, 2.863149] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 18.818583 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 16.183382 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 15.191752 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 16.496446 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 15.648150 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 16.465317 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 16.544039 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 15.491476 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 16.559355 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.703855e+04 
+time required for this iteration is 15.907365 seconds 
+
+The parameters are 
+[0.641052, -0.241220, -0.094780, 1.231962, -0.056925, 0.335220, 1.500000, -1.494511, 0.057483, 1.286184, -1.697293, 0.042331, 3.217978] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.641052, 	
+Parameter 2 = -0.241220, 	
+Parameter 3 = -0.094780, 	
+Parameter 4 = 1.231962, 	
+Parameter 5 = -0.056925, 	
+Parameter 6 = 0.335220, 	
+Parameter 7 = 1.500000, 	
+Parameter 8 = -1.494511, 	
+Parameter 9 = 0.057483, 	
+Parameter 10 = 1.286184, 	
+Parameter 11 = -1.697293, 	
+Parameter 12 = 0.042331, 	
+Parameter 13 = 3.217978, 	
+The actuator ranges are: 2.771217 	4.156825 	
+The evaluation at this point is -2.703855e+04 
+The mean iteration time is 16.52 seconds
+
+The total print_iterations performed are 21 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 8 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.553614e+04 
+time required for this iteration is 14.046539 seconds 
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 15.113083 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 15.586881 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 15.435199 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 15.974163 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.491215 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.538737 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.346210 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.557401 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.508453 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.553614e+04 
+time required for this iteration is 10.912029 seconds 
+
+The parameters are 
+[0.744394, 0.512624, 0.089720, 0.863466, 0.296432, -0.175141, 0.752717, 1.510682, -0.052427, 1.204195, -1.248553, -0.139897, 1.956287] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.744394, 	
+Parameter 2 = 0.512624, 	
+Parameter 3 = 0.089720, 	
+Parameter 4 = 0.863466, 	
+Parameter 5 = 0.296432, 	
+Parameter 6 = -0.175141, 	
+Parameter 7 = 0.752717, 	
+Parameter 8 = 1.510682, 	
+Parameter 9 = -0.052427, 	
+Parameter 10 = 1.204195, 	
+Parameter 11 = -1.248553, 	
+Parameter 12 = -0.139897, 	
+Parameter 13 = 1.956287, 	
+The actuator ranges are: 1.833909 	2.750864 	
+The evaluation at this point is -2.553614e+04 
+The mean iteration time is 12.68 seconds
+
+The total print_iterations performed are 12 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 9 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.678845e+04 
+time required for this iteration is 13.845737 seconds 
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.678845e+04 
+time required for this iteration is 13.960505 seconds 
+
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.678845e+04 
+time required for this iteration is 12.718244 seconds 
+
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.678845e+04 
+time required for this iteration is 13.274464 seconds 
+
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.678845e+04 
+time required for this iteration is 13.776946 seconds 
+
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Inside contraction of no use: Shrinkage in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.678845e+04 
+time required for this iteration is 14.391707 seconds 
+
+The parameters are 
+[0.749072, -1.718761, 0.013101, 1.319145, -1.027643, 0.351537, 1.060295, 1.378963, -0.084327, 1.264628, 0.471063, 0.111008, 2.393448] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.717565e+04 
+time required for this iteration is 14.531645 seconds 
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 15.685040 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.032496 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.148855 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.361782 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.305676 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 15.431312 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.354508 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.450776 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 15.416669 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.717565e+04 
+time required for this iteration is 16.600500 seconds 
+
+The parameters are 
+[0.713564, -0.952090, 0.012925, 1.391122, -0.933585, 0.307921, 1.137707, 1.201976, -0.069662, 1.412222, 0.689577, 0.175354, 2.795086] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.713564, 	
+Parameter 2 = -0.952090, 	
+Parameter 3 = 0.012925, 	
+Parameter 4 = 1.391122, 	
+Parameter 5 = -0.933585, 	
+Parameter 6 = 0.307921, 	
+Parameter 7 = 1.137707, 	
+Parameter 8 = 1.201976, 	
+Parameter 9 = -0.069662, 	
+Parameter 10 = 1.412222, 	
+Parameter 11 = 0.689577, 	
+Parameter 12 = 0.175354, 	
+Parameter 13 = 2.795086, 	
+The actuator ranges are: 2.494949 	3.742423 	
+The evaluation at this point is -2.717565e+04 
+The mean iteration time is 15.13 seconds
+
+The total print_iterations performed are 18 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+########## START NUMBER: 10 of 10 ##########
+The reflection, expansion, contraction and shrinkage co-efficients used are:  [1, 2, 0.50, 0.50] 
+In case you want to change them, the assignment is done in nelder_mead_ms.m
+Inside contraction of no use: Shrinkage in process 
+Better point found.. continuing
+New evaluation is -1.972559e+04 
+time required for this iteration is 14.538098 seconds 
+The parameters are 
+[0.986884, -0.810184, -0.053487, 1.527674, -0.645324, 0.395138, 0.395771, -1.354788, 0.046154, 1.863902, 0.475932, -0.379782, 3.943971] 
+
+Reflection in process 
+Better point found.. continuing
+New evaluation is -2.668758e+04 
+time required for this iteration is 10.810989 seconds 
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 11.449915 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 11.824291 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 12.270232 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 12.945879 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 13.451347 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 13.793599 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 14.027998 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 15.182625 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Reflection in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 15.319241 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+Inside contraction in process 
+Same solution encountered or less than 5.000000e-01 % improvement
+The evaluation is -2.668758e+04 
+time required for this iteration is 16.538059 seconds 
+
+The parameters are 
+[0.784243, -0.121728, -0.067685, 1.612073, -0.544495, 0.069454, 0.325648, -1.534577, 0.046775, 1.747423, 0.980599, -0.183707, 3.027966] 
+
+
+The simplex stopped after 10 print_iterations 
+
+Parameter 1 = 0.784243, 	
+Parameter 2 = -0.121728, 	
+Parameter 3 = -0.067685, 	
+Parameter 4 = 1.612073, 	
+Parameter 5 = -0.544495, 	
+Parameter 6 = 0.069454, 	
+Parameter 7 = 0.325648, 	
+Parameter 8 = -1.534577, 	
+Parameter 9 = 0.046775, 	
+Parameter 10 = 1.747423, 	
+Parameter 11 = 0.980599, 	
+Parameter 12 = -0.183707, 	
+Parameter 13 = 3.027966, 	
+The actuator ranges are: 2.612291 	3.918436 	
+The evaluation at this point is -2.668758e+04 
+The mean iteration time is 13.51 seconds
+
+The total print_iterations performed are 13 
+
+Best point yet is: 0.962892 	-1.376545 	0.084797 	1.001767 	-0.962982 	-0.144320 	0.815604 	0.049267 	-0.053291 	0.996152 	0.602114 	-0.005337 	2.973325 	
+The actuator range is: 2.410675 	3.616013 	
+
+Completed all starts of Nelder Mead: Closing file 2dof_results_8mar/deep_record_8mar_15hrs_17min.txt 
+Opening a file named 2dof_results_8mar/points_record_8mar_15hrs_17min.txt to save all the optimised points with different starting simplex 
+ 
+The total time elapsed for comple operation is 0 hours 37 minutes and 54.1 seconds 
+Opening file named 2dof_results_8mar/refine_record_8mar_15hrs_17min.txt for storing the deep analysis of the multi-start optimisation 
+Reflection in process 
+Better point found.. continuing
+New evaluation is -7.024161e+04 
+time required for this iteration is 34.757597 seconds 
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 36.472569 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 37.419567 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 39.915459 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 39.149565 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.255010 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 38.873602 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 40.526495 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.196136 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 39.090627 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 39.089502 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.162818 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 42.576591 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 42.052809 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.579849 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.649433 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.228537 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Reflection in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 39.583401 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.580294 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 41.038857 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+Inside contraction in process 
+Same solution encountered or less than 1 % improvement
+The evaluation is -7.024161e+04 
+time required for this iteration is 42.590025 seconds 
+
+The parameters are 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+
+The simplex stopped after 20 print_iterations 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The actuator ranges are: 2.410446 	3.615669 	
+The evaluation at this point is -7.024161e+04 
+The mean iteration time is 40.13 seconds
+
+The total print_iterations performed are 22 
+
+
+The optimised point after refining is found 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The evaluation is -70241.607503
+The actuator ranges are: [2.410446, 3.615669] 
+The total time for refining operation is 0 hours 14 minutes and 8.5 seconds 
+The total time elapsed for complete including refining operation is 0 hours 52 minutes and 2.5 seconds 

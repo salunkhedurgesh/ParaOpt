@@ -1,0 +1,82 @@
+Started the refining process
+ 
+########## GIT UPDATE ##########
+Running optimization for the chapter in Shivesh's book 
+
+########## INFORMATION ABOUT THE MECHANISM AND ITS OPTIMIZING ELEMENTS ##########
+The type of mechanism optimised is 2UPS_1U for Otological surgery
+The dimension of the optimisation is 13, the number of starts are 10
+The number of iterations if same solution is encountered is 20 
+The limits are:
+Limit 1 : [-5.000000e-01, 5.000000e-01]
+Limit 2 : [-5.000000e-01, 5.000000e-01]
+Limit 3 : [-5.000000e-01, 5.000000e-01]
+Limit 4 : [-5.000000e-01, 5.000000e-01]
+Limit 5 : [-5.000000e-01, 5.000000e-01]
+Limit 6 : [-5.000000e-01, 5.000000e-01]
+Limit 7 : [-5.000000e-01, 5.000000e-01]
+Limit 8 : [-5.000000e-01, 5.000000e-01]
+Limit 9 : [-5.000000e-01, 5.000000e-01]
+Limit 10 : [-5.000000e-01, 5.000000e-01]
+Limit 11 : [0, 0]
+Limit 12 : [0, 0]
+Limit 13 : [4.000000e-01, Inf]
+The objective function aims to calculate design for the best Global Conditioning Index 
+The ranges for the parameters are: 
+
+Parameter 1 range: [0.25 to 1.50] 
+Parameter 2 range: [-1.75 to 1.75] 
+Parameter 3 range: [-0.10 to 0.10] 
+Parameter 4 range: [0.25 to 2.00] 
+Parameter 5 range: [-1.75 to 1.75] 
+Parameter 6 range: [-0.50 to 0.50] 
+Parameter 7 range: [0.25 to 1.50] 
+Parameter 8 range: [-1.75 to 1.75] 
+Parameter 9 range: [-0.10 to 0.10] 
+Parameter 10 range: [0.25 to 2.00] 
+Parameter 11 range: [-1.75 to 1.75] 
+Parameter 12 range: [-0.50 to 0.50] 
+Parameter 13 range: [1.00 to 4.00] 
+The dimension of the output space is 2 
+The resolution for fine search space is: [1.000000e-02, 1.000000e-01, ] 
+The parameter explored is 
+[0.962892, -1.376545, 0.084797, 1.001767, -0.962982, -0.144320, 0.815604, 0.049267, -0.053291, 0.996152, 0.602114, -0.005337, 2.973325] 
+
+
+The simplex stopped after 20 print_iterations 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The actuator ranges are: 2.410446 	3.615669 	
+The evaluation at this point is -7.024161e+04 
+The mean iteration time is 40.13 seconds
+The total print_iterations performed are 22 
+
+
+The optimised point after refining is found 
+
+Parameter 1 = 0.962892, 	
+Parameter 2 = -1.376545, 	
+Parameter 3 = 0.084797, 	
+Parameter 4 = 1.001767, 	
+Parameter 5 = -0.962982, 	
+Parameter 6 = -0.144320, 	
+Parameter 7 = 0.815604, 	
+Parameter 8 = 0.049267, 	
+Parameter 9 = -0.053291, 	
+Parameter 10 = 0.996152, 	
+Parameter 11 = 0.602114, 	
+Parameter 12 = -0.005337, 	
+Parameter 13 = 2.973325, 	
+The actuator ranges are: [2.410446, 3.615669] 
